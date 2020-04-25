@@ -20,7 +20,7 @@ If you have any issue or comment, please contact: <appsimark@gmail.com>
 
 ## 📲 Updates
 
-We compromise to update the app regularly and listen to users. Do you have any doubt? any feature you would like to see in the app? Ask us for it! Please contact: <clicktvassistance@gmail.com>
+We compromise to update the app regularly and listen to users. Do you have any doubt? any feature you would like to see in the app? Ask us for it! Please contact: <appsimark@gmail.com>
 
 ## ❗ Important Notes
 
