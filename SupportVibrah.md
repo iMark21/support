@@ -4,7 +4,7 @@ Vibrah is a simple, easy to use app that makes your iPhone vibrate! Vibration is
 
 ## About us 📋
 
-If you have any issue or comment, please contact: <clicktvassistance@gmail.com>
+If you have any issue or comment, please contact: <appsimark@gmail.com>
 
 ## Features 🚀
 
