@@ -10,7 +10,7 @@
 
 ---
 
-## 🇺🇸 English
+## English
 ### Terms and Conditions of ClickTV PRO
 
 These Terms and Conditions ("T&C") establish the rules and considerations that regulate the use of the ClickTV PRO application ("the Application") by its users. By using this application, you agree to comply with these Terms and Conditions in full. If you do not agree with any of these terms, please do not use the application.
@@ -68,7 +68,7 @@ Al utilizar esta aplicación, usted reconoce haber leído, comprendido y aceptad
 
 ---
 
-## 🇮🇹 Italiano
+## Italiano
 ### Termini e Condizioni di ClickTV PRO
 
 Questi Termini e Condizioni ("T&C") stabiliscono le regole e le considerazioni che regolano l'uso dell'applicazione ClickTV PRO ("l'Applicazione") da parte degli utenti. Utilizzando questa applicazione, accetti di aderire completamente a questi Termini e Condizioni. Se non sei d'accordo con uno qualsiasi di questi termini, ti preghiamo di non utilizzare l'applicazione.
@@ -97,7 +97,7 @@ Utilizzando questa applicazione, riconosci di aver letto, compreso e accettato c
 
 ---
 
-## 🇧🇷 Português (Brasil)
+## Português (Brasil)
 ### Termos e Condições do ClickTV PRO
 
 Estes Termos e Condições ("T&C") estabelecem as regras e considerações que regulam o uso do aplicativo ClickTV PRO ("o Aplicativo") por seus usuários. Ao utilizar este aplicativo, você concorda em cumprir integralmente estes Termos e Condições. Se você não concordar com algum destes termos, por favor, não use o aplicativo.
@@ -126,7 +126,7 @@ Ao utilizar este aplicativo, você reconhece que leu, entendeu e aceitou integra
 
 ---
 
-## 🇵🇹 Português (Portugal)
+## Português (Portugal)
 ### Termos e Condições do ClickTV PRO
 
 Estes Termos e Condições ("T&C") estabelecem as regras e considerações que regulam a utilização da aplicação ClickTV PRO ("a Aplicação") pelos seus utilizadores. Ao utilizar esta aplicação, concorda em cumprir integralmente estes Termos e Condições. Se não concordar com algum destes termos, por favor, não utilize a aplicação.
@@ -155,7 +155,7 @@ Ao utilizar esta aplicação, reconhece que leu, compreendeu e aceitou integralm
 
 ---
 
-## 🇫🇷 Français
+## Français
 ### Termes et Conditions de ClickTV PRO
 
 Ces Termes et Conditions ("T&C") établissent les règles et considérations régissant l'utilisation de l'application ClickTV PRO ("l'Application") par ses utilisateurs. En utilisant cette application, vous acceptez de respecter intégralement ces Termes et Conditions. Si vous n'êtes pas d'accord avec l'un de ces termes, veuillez ne pas utiliser l'application.
@@ -184,7 +184,7 @@ En utilisant cette application, vous reconnaissez avoir lu, compris et accepté 
 
 ---
 
-## 🇩🇪 Deutsch
+## Deutsch
 ### Geschäftsbedingungen von ClickTV PRO
 
 Diese Geschäftsbedingungen ("AGB") legen die Regeln und Überlegungen fest, die die Nutzung der ClickTV PRO-Anwendung ("die Anwendung") durch ihre Nutzer regeln. Durch die Nutzung dieser Anwendung stimmen Sie zu, diese Geschäftsbedingungen vollständig einzuhalten. Wenn Sie mit einem dieser Bedingungen nicht einverstanden sind, verwenden Sie bitte die Anwendung nicht.
