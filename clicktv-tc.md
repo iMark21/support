@@ -1,7 +1,7 @@
 # ClickTV PRO Terms and Conditions
 
-- 🇺🇸 [English](#english)
-- 🇪🇸 [Español](#español)
+- 🇺🇸 [English](##english)
+- 🇪🇸 [Español](##español)
 - 🇮🇹 [Italiano](#italiano)
 - 🇧🇷 [Português (Brasil)](#português-brasil)
 - 🇵🇹 [Português (Portugal)](#português-portugal)
